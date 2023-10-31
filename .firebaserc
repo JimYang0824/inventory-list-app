@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "inventory-list-application": {
+      "hosting": {
+        "inventory-list-application": [
+          "inventory-list-application"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "inventory-list-application"
+  }
+}
